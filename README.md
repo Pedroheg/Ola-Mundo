@@ -1,3 +1,4 @@
 # Olá, Mundo!
 
 Novo Repositório 2022 
+TESTE COM REDE LOCAL DURANTE A AULA DE GIT
